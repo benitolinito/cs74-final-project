@@ -10,6 +10,8 @@ We trained binary classifiers to label comments as **toxic (1)** or **non-toxic 
 
 Our main analysis is in [`CS74_Project_Final_Version.ipynb`](CS74_Project_Final_Version.ipynb).
 
+**Colab notebook:** [Open in Google Colab](https://colab.research.google.com/drive/1kZRUNdp4kbKtHRcBp_zvL9KvJwLOsXTk?usp=sharing)
+
 **Presentation slides:** [Google Slides](https://docs.google.com/presentation/d/1pitYnRS2cjvZANsdkaCI5XGWoHZWspcXSRKSz4958nM/edit?usp=sharing)
 
 ## Dataset and preprocessing
